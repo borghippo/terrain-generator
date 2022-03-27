@@ -1,5 +1,7 @@
 # Terrain Map Generator in Go
 
+![examples/map.png](examples/map.png)
+
 make a random, procedurally generated image of a terrain map
 
 ## Examples
