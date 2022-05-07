@@ -1,6 +1,6 @@
 package main
 
-import tg "github.com/borghop/terrain-generator"
+import tg "github.com/borghippo/terrain-generator"
 
 func main() {
 	tm := tg.NewDefault()

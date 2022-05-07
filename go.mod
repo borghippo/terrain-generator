@@ -1,4 +1,4 @@
-module github.com/borghop/terrain-generator
+module github.com/borghippo/terrain-generator
 
 go 1.18
 
