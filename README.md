@@ -1,4 +1,4 @@
-# Terrain Map Generator in Go
+# Terrain Map Generator
 
 ![examples/map.png](examples/map.png)
 
